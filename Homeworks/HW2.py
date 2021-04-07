@@ -5,7 +5,8 @@ members = {"Bee Gees": "stayinalive",
            "Micheal Jackson": "billiejean",
            "Bon Jovi":"itsmylife",
            "Eminem":"killshot",
-           "Pink Floyd": "comfortablynumb"
+           "Pink Floyd": "comfortablynumb",
+           "Pearl Jam": "black"
            }
 # sign_in variable is for registration purposes. It is used to create a loop.
 sign_in = True
