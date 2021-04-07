@@ -27,7 +27,7 @@ while sign_in == True:
             members[register] = register_password
             print("You have successfully registered to our website. Please sign in.")
         else:
-            print("This website is members only.")
+            print("This website is for members only.")
             sign_in = False
 
 
