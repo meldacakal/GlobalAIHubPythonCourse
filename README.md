@@ -13,6 +13,7 @@ Knowledge Competition
 ## Requirements
 
 Numpy
+
 Pandas
 
 ---
