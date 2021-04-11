@@ -11,11 +11,10 @@
 Knowledge Competition
 
 ## Requirements
-```
-Some python libraries
-Some python libraries
-Some python libraries
-```
+
+Numpy
+Pandas
+
 ---
 
 ### Certification
