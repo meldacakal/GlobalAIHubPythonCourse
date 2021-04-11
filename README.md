@@ -1,4 +1,4 @@
-# FINAL PROJECT
+# INTRODUCTION TO PYTHON
 ![](img/newlogo.png)
 
 **Course Date:** 05.04.2021  
