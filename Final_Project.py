@@ -46,7 +46,7 @@ def run_quiz(questions):
             score += 10
 
     if score <= 40:
-        print("You are a Loser,", name, ".You got",str(score), "out of 100.You owe us a billion.")
+        print("You are a Loser,", name, ".You got",str(score), "out of 100.You owe us a billion now.")
     else:
         print("We have a WINNER!",name, "got", str(score), "out of 100.Congrats!")
 
